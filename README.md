@@ -7,7 +7,7 @@ Para poder utilizar la App, es necesario descargar la App de Expo Go y escanear 
 
 ## La app en uso
 
-<p align="center">
+<p float="left">
   <img width="300" height="300" src="https://user-images.githubusercontent.com/99020950/182889906-232804dc-de81-4f2a-933c-54887139b22c.png">
 </p>
 <p align="left">
