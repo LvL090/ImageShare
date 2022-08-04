@@ -11,10 +11,10 @@ Para poder utilizar la App, es necesario descargar la App de Expo Go y escanear 
   <img width="500" height="500" src="https://user-images.githubusercontent.com/99020950/182889906-232804dc-de81-4f2a-933c-54887139b22c.png">
 </p>
 <p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/99020950/182877167-7bd8a67c-8ef7-4984-877b-512cd9d6c594.png">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/99020950/182877167-7bd8a67c-8ef7-4984-877b-512cd9d6c594.png">
 </p>
 <p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/99020950/182877169-1ba77e13-4fc9-4880-a1a8-c2bf9180dbb1.png">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/99020950/182877169-1ba77e13-4fc9-4880-a1a8-c2bf9180dbb1.png">
 </p>
 
 
