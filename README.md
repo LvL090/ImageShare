@@ -45,4 +45,5 @@ expo install expo-sharing
 
 3. Luego, inicia el proyecto con `npm start`,después deberás escoger la plataforma de visualización (android,iOS,web), para poder visualizar en proyecto en iOS, necesitarás tener un dispositivo de Apple,
 para poder visualizar el proyecto en Android necesitarás tener descargadas las herramientas de Android Studio,
-además de un emulador de un dispositvo Android. Si el proyecto se intenta abrir en Web saldr
+además de un emulador de un dispositvo Android. 
+Si el proyecto se intenta abrir en formato Web saldrá un error.
