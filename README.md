@@ -3,13 +3,14 @@
 
 ## Sobre el proyecto
 App (aún en desarrollo) para Android e iOS para compartir fotos. Proyecto personal para entender las bases de React-native junto con la herramienta Expo.
-Para poder utilizar la App, es necesario descargar la App de Expo Go y escanear el código QR.
-
-## La app en uso
+Para poder utilizar la App, es necesario descargar la App de Expo Go y escanear el código QR:
 
 <p align="center">
   <img width="300" height="300" src="https://user-images.githubusercontent.com/99020950/182889906-232804dc-de81-4f2a-933c-54887139b22c.png">
 </p>
+
+## La app en uso
+
 <p align= "center">
   <img width="300" height="600" src="https://user-images.githubusercontent.com/99020950/182877167-7bd8a67c-8ef7-4984-877b-512cd9d6c594.png">
 </p>
